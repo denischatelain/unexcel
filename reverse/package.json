@@ -1,0 +1,16 @@
+{
+  "name": "reverse",
+  "version": "1.0.0",
+  "description": "take a list of IPs from an excel file, lookup the reverse and output an excel",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Denis Chatelain",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^9.2.0",
+    "node-xlsx": "^0.21.0",
+    "reverse": "^4.0.1"
+  }
+}
