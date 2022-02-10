@@ -1,0 +1,29 @@
+{
+  "name": "officegrep",
+  "version": "1.0.0",
+  "description": "Grep Office files (Word, Excel, PowerPoint)",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denischatelain/unexcel.git"
+  },
+  "keywords": [
+    "grep",
+    "Word",
+    "Excel",
+    "PowerPoint"
+  ],
+  "author": "Denis Chatelain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/denischatelain/unexcel/issues"
+  },
+  "homepage": "https://github.com/denischatelain/unexcel#readme",
+  "dependencies": {
+    "adm-zip": "^0.5.9",
+    "node-xml-stream": "^1.0.2"
+  }
+}
